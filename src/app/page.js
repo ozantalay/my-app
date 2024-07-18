@@ -1,4 +1,4 @@
-import App from "./app"
+
 import ImageShow from "./ImageShow"
 
 export default function Home() {
